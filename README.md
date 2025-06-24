@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/alvinmonir411">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinmonir411&theme=radical&hide_border=true" alt="Alvin Monir's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=alvinmonir411&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
