@@ -25,28 +25,25 @@
 
 ---
 
-## 📈 GitHub Stats
-
-## 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/alvinmonir411">
-    <img src="https://github-readme-stats.vercel.app/api?username=alvinmonir411&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Alvin Monir's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alvinmonir411&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=ffffff&title_color=dd0031&icon_color=dd0031&text_color=333333" alt="Alvin Monir's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alvinmonir411">
-    <img src="https://streak-stats.demolab.com?user=alvinmonir411&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=alvinmonir411&theme=default&hide_border=true&background=ffffff&stroke=dd0031&ring=dd0031&fire=dd0031&currStreakNum=dd0031&sideNums=333333" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alvinmonir411">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmonir411&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmonir411&layout=compact&hide_border=true&bg_color=ffffff&title_color=dd0031&text_color=333333" alt="Top Languages" />
   </a>
 </p>
-
 
 ---
 
