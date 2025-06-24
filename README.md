@@ -27,11 +27,26 @@
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src='![Monir's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinmonir411&show_icons=true&theme=tokyonight&cache_bust=1)
-'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmonir&layout=compact&theme=tokyonight" width="350"/>
+  <a href="https://github.com/alvinmonir411">
+    <img src="https://github-readme-stats.vercel.app/api?username=alvinmonir411&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Alvin Monir's GitHub Stats" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/alvinmonir411">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinmonir411&theme=radical&hide_border=true" alt="Alvin Monir's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alvinmonir411">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmonir411&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 
 ---
 
