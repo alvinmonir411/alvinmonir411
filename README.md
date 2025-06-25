@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#dd0031;">Monir</span> 👋</h1>
-<h3 align="center" style="font-weight: 400;">Front-End Developer | MERN Stack | React Enthusiast | Bangladesh 🇧🇩</h3>
+<h3 align="center" style="font-weight: 400;">
+  Front-End Focused Developer | React Specialist | MERN Stack Support | Bangladesh 🇧🇩
+</h3>
+
 
 ---
 
