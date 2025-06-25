@@ -22,24 +22,17 @@ Hey! I’m **Alvin Monir**, a passionate Front-End Developer with a love for bui
 - 📝 **Knowledge Sharing Platform** – Firebase + MongoDB-based blog app *(Coming soon)*  
 
 ---
-
-## 🧰 Tech Stack
-
-**Languages & Libraries**  
-`HTML5`, `CSS3`, `JavaScript`, `ES6+`, `React`, `React Router`, `Framer Motion`, `React Query`, `Axios`
-
-**Styling & UI**  
-`Tailwind CSS`, `DaisyUI`, `Bootstrap`, `Responsive Design`, `Dark Mode`, `ShadCN`, `HeroIcons`
-
-**Backend & Database**  
-`Node.js`, `Express.js`, `MongoDB`, `Firebase`, `REST APIs`, `JWT`, `CORS`, `dotenv`
-
-**Build & Deployment**  
-`Vite`, `Webpack`, `Netlify`, `Vercel`, `Render`, `Git`, `GitHub`
-
-**Tools & Platforms**  
-`VS Code`, `Postman`, `Chrome DevTools`, `Figma`, `Canva`, `Notion`
-
+🧰 Tech Stack
+💻 Languages & Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /> </p>
+🎨 Styling & UI
+<p align="center"> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> <img src="https://img.shields.io/badge/DaisyUI-4B5563?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white" /> <img src="https://img.shields.io/badge/Dark%20Mode-000000?style=for-the-badge&logo=darkreader&logoColor=white" /> <img src="https://img.shields.io/badge/ShadCN-0EA5E9?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/HeroIcons-3B82F6?style=for-the-badge&logoColor=white" /> </p>
+🔥 Backend & Database
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> <img src="https://img.shields.io/badge/REST%20API-FF9800?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/CORS-4CAF50?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/dotenv-8DD6F9?style=for-the-badge&logoColor=white" /> </p>
+🚀 Build & Deployment
+<p align="center"> <img src="https://skillicons.dev/icons?i=vite,webpack,git,github,vercel,netlify" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </p>
+🛠️ Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /> <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> </p>
 ---
 
 ## 🧠 Skills & Expertise
