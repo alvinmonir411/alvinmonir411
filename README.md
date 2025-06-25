@@ -59,10 +59,11 @@ Hey! I’m **Alvin Monir**, a passionate Front-End Developer with a love for bui
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvinmonir411&show_icons=true&theme=react&hide_border=true&count_private=true" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=alvinmonir411&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinmonir411&theme=react&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmonir411&layout=compact&hide_border=true" />
 </p>
+
 
 ---
 
