@@ -16,10 +16,10 @@ Hey! I’m **Alvin Monir**, a passionate Front-End Developer with a love for bui
 ---
 
 ## 🔭 Currently Working On  
-
+    🚚 **[Food Sharing Zone](https://donatofoodsaver.netlify.app/)** – Food wasted reduation platform 
 - 🚚 **[Sikka Zone](https://sikka-zone.netlify.app/)** – Parcel Delivery Web App  
 - 🍲 **[Tasty Tales](https://tastytales1.netlify.app/)** – Recipe Blogging and Delivery Platform  
-- 📝 **Knowledge Sharing Platform** – Firebase + MongoDB-based blog app *(Coming soon)*  
+- 
 
 ---
 🧰 Tech Stack
